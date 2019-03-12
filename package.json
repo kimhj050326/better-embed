@@ -1,13 +1,13 @@
 {
-  "name": "rich-embed",
-  "version": "1.0.1",
+  "name": "better-embed",
+  "version": "1.0.0",
   "description": "To make matter better, this module helps to create richEmbed with Discord.js",
   "main": "index.js",
-  "repository": "git@github.com:5tarlight/rich-embed.git",
-  "author": "5tarlight <developerstarlight@gmail.com>",
+  "repository": "git@github.com:zeonplex/better-embed.git",
+  "author": "khjkr <khj@kkutu.co>",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "rich-embed": "^1.0.1"
+    "better-embed": "^1.0.0"
   }
 }
