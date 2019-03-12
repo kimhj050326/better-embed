@@ -1,0 +1,13 @@
+{
+  "name": "rich-embed",
+  "version": "1.0.1",
+  "description": "To make matter better, this module helps to create richEmbed with Discord.js",
+  "main": "index.js",
+  "repository": "git@github.com:5tarlight/rich-embed.git",
+  "author": "5tarlight <developerstarlight@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "rich-embed": "^1.0.1"
+  }
+}
