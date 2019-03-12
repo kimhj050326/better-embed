@@ -1,1 +1,1 @@
-# rich-embed
+# better-embed
